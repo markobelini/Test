@@ -1,0 +1,10 @@
+{
+	"tinkercademy.LED|block": "切换LED |引脚 %p|状态 %state",
+	"tinkercademy.ADKeyboard|block":" ",
+	"tinkercademy.PIR|block":" ",
+	"tinkercademy.crashSensorSetup|block":" ",
+	"tinkercademy.crashSensor|block":" ",
+	"tinkercademy.MoistureSensor|block":" ",
+	
+	
+}

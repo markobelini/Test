@@ -1,0 +1,19 @@
+{
+    "name": "Tinkercademyyyyyy",
+    "version": "1.0.2",
+    "description": "Tinkercademy package for the tinker:kit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "OLED": "github:Tinkertanker/pxt-oled-ssd1306"
+    },
+    "files": [
+        "README.md",
+        "a.ts",
+        "tinkercademy.ts",
+        "_locales/zh/tinker-strings.json"
+    ],
+    "testFiles": [
+    ],
+    "public": true
+}
